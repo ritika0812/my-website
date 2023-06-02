@@ -1,0 +1,7 @@
+version: 1
+
+sitemaps:
+  default:
+    origin: https://main--my-website--ritika0812.hlx.live
+    source: /sitemap-index.json
+    destination: /sitemap.xml
