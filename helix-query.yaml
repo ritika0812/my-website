@@ -2,7 +2,7 @@ version: 1
 
 indices:
   default:
-    target: /sitemap-index
+    target: /sitemap-index.xlsx
     properties:
       lastModified:
         select: none
